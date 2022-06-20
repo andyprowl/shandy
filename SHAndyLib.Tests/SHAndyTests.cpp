@@ -1,5 +1,3 @@
-#include "pch.h"
-
 #include "Serialization.h"
 
 #include <SHAndyLib/Formatting.h>

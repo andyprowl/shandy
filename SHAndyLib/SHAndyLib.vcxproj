@@ -120,7 +120,7 @@
       <ConformanceMode>true</ConformanceMode>
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
-      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <LanguageStandard>stdcpp20</LanguageStandard>
       <EnableModules>true</EnableModules>
       <TreatWarningAsError>true</TreatWarningAsError>
       <AdditionalIncludeDirectories>include</AdditionalIncludeDirectories>
@@ -142,7 +142,7 @@
       <ConformanceMode>true</ConformanceMode>
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
-      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <LanguageStandard>stdcpp20</LanguageStandard>
       <EnableModules>true</EnableModules>
       <TreatWarningAsError>true</TreatWarningAsError>
       <AdditionalIncludeDirectories>include</AdditionalIncludeDirectories>
